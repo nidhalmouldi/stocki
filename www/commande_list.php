@@ -278,3 +278,4 @@ if (this.value == 1) {
 		margin: 2%
 	}
 </style>
+<a target="_blank" href="generatePDF.php" >generate pdf</a>
